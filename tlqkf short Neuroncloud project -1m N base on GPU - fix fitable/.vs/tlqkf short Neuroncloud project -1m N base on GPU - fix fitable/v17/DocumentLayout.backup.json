@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|solutionrelative:tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|solutionrelative:tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|solutionrelative:tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|solutionrelative:tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EA1155D-6755-49BE-8237-B808FB69DEA8}|tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable.vcxproj|solutionrelative:tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp",
+              "RelativeDocumentMoniker": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp",
+              "RelativeToolTip": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:53:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gpu_utils.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp",
+              "RelativeDocumentMoniker": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp*",
+              "RelativeToolTip": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\gpu_utils.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:52:43.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chatbot.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp",
+              "RelativeDocumentMoniker": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp*",
+              "RelativeToolTip": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\chatbot.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:52:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "search_cache.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp",
+              "RelativeDocumentMoniker": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp*",
+              "RelativeToolTip": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\search_cache.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:52:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "neuron.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp",
+              "RelativeDocumentMoniker": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp*",
+              "RelativeToolTip": "tlqkf short Neuroncloud project -1m N base on GPU - fix fitable\\neuron.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:52:09.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

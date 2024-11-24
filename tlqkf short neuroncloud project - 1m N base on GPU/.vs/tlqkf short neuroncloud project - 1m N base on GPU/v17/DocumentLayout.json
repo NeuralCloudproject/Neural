@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|solutionrelative:tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|solutionrelative:tlqkf short neuroncloud project - 1m N base on GPU\\search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|solutionrelative:tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|solutionrelative:tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20B22DA6-ACE1-4623-99E1-BAC4C7AA37C6}|tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU.vcxproj|solutionrelative:tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp",
+              "RelativeDocumentMoniker": "tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp",
+              "RelativeToolTip": "tlqkf short neuroncloud project - 1m N base on GPU\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T16:02:00.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chatbot.h",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h",
+              "RelativeDocumentMoniker": "tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h",
+              "RelativeToolTip": "tlqkf short neuroncloud project - 1m N base on GPU\\chatbot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T16:01:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "embedding.h",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h",
+              "RelativeDocumentMoniker": "tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h",
+              "RelativeToolTip": "tlqkf short neuroncloud project - 1m N base on GPU\\embedding.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T16:01:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "search.h",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\search.h",
+              "RelativeDocumentMoniker": "tlqkf short neuroncloud project - 1m N base on GPU\\search.h",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\search.h",
+              "RelativeToolTip": "tlqkf short neuroncloud project - 1m N base on GPU\\search.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T16:01:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "neurons.h",
+              "DocumentMoniker": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h",
+              "RelativeDocumentMoniker": "tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h",
+              "ToolTip": "C:\\Users\\yukime\\source\\repos\\tlqkf short neuroncloud project - 1m N base on GPU\\tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h",
+              "RelativeToolTip": "tlqkf short neuroncloud project - 1m N base on GPU\\neurons.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T16:01:10.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
